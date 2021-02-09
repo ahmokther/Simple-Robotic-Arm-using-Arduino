@@ -1,0 +1,8 @@
+
+
+Component list 
+1.Arduino UNO or Arduino Nano ---------------1 P
+2.Jumper Wire------------------------------ Some
+3.Servo motor------------------ -------------2P
+4.Potentiometer(10k or 100k)------------------2P
+5.Battery(9v)--------------------------------- 1P
